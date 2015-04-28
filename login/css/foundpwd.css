@@ -1,0 +1,12 @@
+/* CSS Document */
+body{width:320px;
+	height:100px;
+	padding:20px 10px;}
+table{table-layout:fixed;
+	font-size:14px;
+	width:100%;}
+th{text-decoration:underline;}
+#user,#question,#answer,#pwd1,#pwd2{width:120px;
+									height:18px;
+									border:1px solid #7F9DB9;
+									overflow:hidden;}

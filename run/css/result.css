@@ -1,0 +1,18 @@
+/* CSS Document */
+body{font-size:14px;
+	font-family:"ËÎÌו";}
+#year{width:40px;
+		background-color:#EBEBE4;
+		border:1px solid #7F9DB9;}
+#remark{width:200px;
+		height:56px;}
+.a1{display:block;
+	background-color:#8BA6E0;
+	border:1px solid #8BA6E0;
+	width:20px;
+	height:7px;
+	font-size:7px;
+	text-decoration:none;
+	text-align:center;}
+.a1:hover{background-color:#C5E2FC;}
+#month,#day{float:left; margin-left:1px;}

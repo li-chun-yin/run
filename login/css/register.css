@@ -1,0 +1,19 @@
+/* CSS Document */
+body{padding:5px;}
+table{font-size:14px;
+	width:100%;
+	margin:0;}
+th{text-decoration:underline;}
+td{height:16px;}
+#user,#pwd1,#pwd2,#nickname,#realname,#work,#school,#qq,#tel{width:120px;
+									height:16px;
+									border:1px solid #7F9DB9;
+									overflow:hidden;}
+#head{width:220px;
+	height:20px;}
+#question,#answer,#email{width:160px;
+				height:16px;}
+#stature,#weight{width:60px;
+		height:20px;}
+#sign{width:200px;
+		height:60px;}
